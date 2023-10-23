@@ -1,0 +1,62 @@
+# site settings
+
+title: Nik Dot Codes
+description: The semi-coherent ramblings of a database jockey, runner, & TTRPG enthusiast.
+taglong: Data Architect by day, a Running GM by night
+tagshort: and tries other things
+url: https://nik.codes
+baseurl: ""
+permalink: pretty
+
+# author settings
+
+author: 
+  name: Nik
+  email: hi@nik.codes
+photo: /assets/jpg/photo.jpg
+
+# social media links
+
+social:
+  github: nikdotcodes
+  linkedin: nikwalne
+  strava: nikdotcodes
+
+# flags to turn things off and on insite
+
+flags:
+  ttrpg: true
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 3
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
