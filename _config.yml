@@ -27,6 +27,9 @@ social:
 flags:
   ttrpg: true
 
+# blog settings
+imagelib: /assets/jps/blog/
+
 # build settings
 
 exclude:
