@@ -19,6 +19,6 @@ I'm a full on vegan and have been for many years and I believe in promoting idea
 
 This site serves to be my personal site as a way of presenting my "personal brand", and forms my own little corner of the internet - which mainly means I'm going to [blog here](/blog), whether you want to see the whole thing, [the work](#) where I write about data, databases, and more data; or [the play](#) where I wax lyrical about running, mental health, and tabletop RPGs. Or you can have a quick look over at my [now page](/now) if you're really interested.
 
-If you want to get hold of me you can [find my details here](#), or if you just want to keep up to date with me you can [grab the rss feed](/atom.xml).
+If you want to get hold of me you can [find my details here](/contact), or if you just want to keep up to date with me you can [grab the rss feed](/atom.xml).
 
 {% include archive.html %}
