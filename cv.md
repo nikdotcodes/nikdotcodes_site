@@ -7,15 +7,21 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## about
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Data architect with a wealth of skills on traditional data warehouses, who since the pandemic has focused more on modern practices utilising python and relevant tools. Has experience in the design and implementation of greenfield warehouses on top of developing and improving existing solutions. They have also spent time in developing proof of concepts of modern data warehouse structures with some of these concepts being incorporated in more traditional settings. Have also had experience in implementing CI/CD pipelines in Jenkins and Azure DevOps.
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+## technical skills
 
-### Subsection
+- In-depth knowledge & experience conceptualising and developing Data Warehouses
+- Developing ETL/ELT Pipelines utilising tools such as Docker, Prefect, & dbt, as well as pure python
+- Setting up and implementing CI & CD
+- Knowledge & proof of concept work of modern data warehouse design such as Kappa & Lambda architectures, and Data Lake formats with Delta & Apache Iceberg files.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## employment
+
+
+## personal skills
+
+
+## outside of work
