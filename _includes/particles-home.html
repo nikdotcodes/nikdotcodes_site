@@ -6,18 +6,8 @@
     <h1 class="particles-title">{{ site.title }}</h1>
     <h1 class="particles-subtitle">{{ site.taglong }}</h1>
     <div class="nowrap">
-      {% if site.social.strava %}
-      <a class="particles-icon" href="https://www.strava.com/athletes/{{ site.social.strava }}">{% include svg/running.svg %}</a>
-      {% endif %}
-      {% if site.flags.ttrpg %}
-      <a class="particles-icon" href="#">{% include svg/hexagon-dice.svg %}</a>
-      {% endif %}
-      {% if site.social.linkedin %}
-      <a class="particles-icon" href="https://www.linkedin.com/in/{{ site.social.linkedin }}">{% include svg/linkedin.svg %}</a>
-      {% endif %}
-      {% if site.social.github %}
-      <a class="particles-icon" href="https://github.com/{{ site.social.github }}">{% include svg/github.svg %}</a>
-      {% endif %}
+      <a class="particles-icon" href="/blog/play/">{% include svg/hexagon-dice.svg %}</a>
+      <a class="particles-icon" href="/blog/work/">{% include svg/database-monitor.svg %}</a>
       <a class="particles-icon" href="cv">{% include svg/cv-circled.svg %}</a>
     </div>
   </div>
