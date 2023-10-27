@@ -6,7 +6,8 @@ taglong: Data Architect by day, a Running GM by night
 tagshort: and tries other things
 url: https://nik.codes
 baseurl: ""
-permalink: /blog/:categories/:year/:month/:day/:title/
+permalink: /blog/:categories/:year/:month/:title.html
+
 
 # author settings
 

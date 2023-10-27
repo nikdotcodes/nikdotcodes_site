@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /blog/work/
 pagination:
   enabled: true
+  category: work
   permalink: /:num/
-
 ---
 
 {% include postlist.html %}

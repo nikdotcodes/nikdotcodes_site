@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /blog/play/
 pagination:
   enabled: true
+  category: play
   permalink: /:num/
 
 ---
