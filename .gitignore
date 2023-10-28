@@ -3,6 +3,9 @@ _site
 .jekyll-metadata
 *-cache/
 
+### Ruby ###
+.bundle/
+vendor/
 
 ### NPM ###
 /node_modules/
