@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publlic key
-permalink: /contact/pub
+title: public key
+permalink: /key/
 ---
 
 ```

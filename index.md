@@ -9,7 +9,7 @@ Hi, I'm Nik - welcome to my little corner of the internet...
 
 In work, I'm a Data Architect & general Database Jockey, currently focusing on Business Intelligence and the push towards using modern standards, open tooling, and engineering practices to update and upgrade legacy databases and coding practices. Which means I get to play script kiddie with many languages and scripts, mainly SQL, Python, PowerShell, & Bash.
 
-[Head over here](/cv) to view my cv, or [over here](/nikcodes_cv.pdf) for a print friendly pdf version.
+[Head over here]({% link pages/cv.md %}) to view my cv, or [over here]({% link nikcodes_cv.pdf %}) for a print friendly pdf version.
 
 Outside of work, I'm a happy, _albeit tired_, father of 2 daughters. As well as being a typical nerd that enjoys being behind a keyboard, a controller, or a character sheet/GM screen. 
 
