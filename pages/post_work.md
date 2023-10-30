@@ -8,5 +8,6 @@ pagination:
   permalink: /:num/
 ---
 
+{% include blog-nav.html %}
 {% include postlist.html %}
 {% include pagination.html %}
