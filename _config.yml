@@ -8,6 +8,7 @@ url: https://www.nik.codes
 baseurl: ""
 permalink: /blog/:categories/:year/:month/:title.html
 
+show_drafts: false
 
 # author settings
 
@@ -22,6 +23,7 @@ social:
   github: nikdotcodes
   linkedin: nikwalne
   strava: nikdotcodes
+  bluesky: nik.codes
 
 # flags to turn things off and on insite
 
