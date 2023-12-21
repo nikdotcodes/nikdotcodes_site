@@ -5,9 +5,10 @@ permalink: /now/
 ---
 
 # /Now
-## 26<sup>th</sup> October 2023
+## 21<sup>th</sup> December 2023
 
-- Finally getting DBA & DevOps Engineering help at work, this will give me a massive breather and I can focus on my actual job now!
-- [SQLBits](https://www.sqlbits.com) has opened, hoping to volunteer this year.
-- Starting the [Gygax 75]({% post_url 2023-10-25-gygax-75-start %}) for an OSE world
-- Picking up on the running after the Oxford Half Marathon - will pick up the miles & pace for more halfs in 2024.
+- Got accepted to the MEng in Data Engineering - Edinburgh Napier here I come (remotely!)
+- Christmas is coming - currently typing this up whilst sitting in the dark on the upstairs landing whilst the second born is trying to sleep at a family member's. Such a strange new place for her.
+- Still waiting on those SQL Bits volunteering details...
+- I'm now on [BlueSky](https://bsky.app/profile/nik.codes) - although yet to post.
+- The data warehousing NHS group is now live and kicking with a Slack channel and whatnot, finally a collaborative environment for this kind of thing in the NHS.s
