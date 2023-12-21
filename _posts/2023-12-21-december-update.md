@@ -2,7 +2,7 @@
 layout: post
 title: So it's been a while
 lead: An update following a good couple of months of quiet
-categories: play, work
+categories: play work
 tags: TTRPG, Data, December, Masters
 ---
 
