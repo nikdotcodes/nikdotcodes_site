@@ -161,3 +161,21 @@ ORDER BY
 LIMIT
   10
 ```
+
+There are a number of reasons as to why I enjoy playing around with this, from the simple quality of life things (trailing commas & alias derived like variables in pretty much any other language) to more (piping, universal functions and variable declarations); I could wax lyrical and blurt out in a rambling way, but the best thing to do is look for yourself - [the documentation](https://prql-lang.org/book/) is growing but is already quite detailed and [the playground](https://prql-lang.org/playground/), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=prql-lang.prql-vscode), and all of the bindings and integrations makes it proper easy to play around with and juggle with
+
+{% include image.html url="/assets/jpg/blog/integrations.png" description="Just look at all of the integrations, tools, and integrations..." %}
+
+## Malloy
+
+[This experiment](https://www.malloydata.dev/home) is developed by Google and covers many of the same things as PRQL (albeit it is missing a few features and is more immature), but what it does have above and beyond is the ability to create a sematic layer (deriving aggregations and dimensions) and dashboards from them as well.
+
+And much like with PRQL, there's [VS Code extensions](https://marketplace.visualstudio.com/items?itemName=malloydata.malloy-vscode), an [online playground](https://github.dev/malloydata/try-malloy/airports.malloy), and an [integration with Python & Jupyter](https://docs.malloydata.dev/documentation/malloy_python/python_package).
+
+I haven't played with this too much, just spent time flicking through the site and looking [at the documentation](https://docs.malloydata.dev/documentation/) but the way it is defined does seem interesting. It seems to be split into 2, queries and sources - with sources you can define the structure of a semantic layer, extending with dimensions and measures, basically creating reusable components. Queries can then be ran from these sources. Views and dashboard elements can also be added to these to create general model files, as with many other languages these files are composable and can be imported into each other to create **DRY** projects.
+
+As I said, I haven't played around with it much, but I am interested to carry on with playing around with it and creating some simple dashboards that can be defined in a simple syntax.
+
+So that's it, not a walkthrough or anything, just a simple show of what's going on in the world of replacing SQL... just to end the year on a note of change. Saying that, these are all in the experimental stages, and SQL is still key to data at the moment.
+
+Till next time...
