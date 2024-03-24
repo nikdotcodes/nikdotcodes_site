@@ -89,3 +89,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+
+### VSCode ###
+.vscode
